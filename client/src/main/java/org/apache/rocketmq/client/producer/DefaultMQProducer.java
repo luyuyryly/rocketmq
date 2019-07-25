@@ -43,6 +43,7 @@ import org.apache.rocketmq.remoting.exception.RemotingException;
 
 /**
  * This class is the entry point for applications intending to send messages.
+ * 从producer开始看rocketmq源码
  * </p>
  *
  * It's fine to tune fields which exposes getter/setter methods, but keep in mind, all of them should work well out of
